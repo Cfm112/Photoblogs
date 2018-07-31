@@ -30,3 +30,24 @@
 
 </body>
 </html>
+
+
+
+
+//Contains also the CSS- I am very fresh at GitHub
+
+img{
+	width: 30%; 
+	float: left;
+	margin: 1.66%;
+}
+p{
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 32px;
+	font-weight: 460;
+	text-transform: uppercase;
+	border-bottom: 3px solid black;
+	width: 35%;
+	padding-bottom: 20px;
+}
